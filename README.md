@@ -27,3 +27,26 @@ This project emphasizes:
 
 ## Status
 Early-stage product exploration and system design. Actively iterating on feature definitions and future capabilities.
+## 📊 Success Metrics & Evaluation
+
+To evaluate the effectiveness of the Smart Kitchen Dashboard, success would be measured across usability, engagement, and efficiency outcomes.
+
+**Adoption & Engagement**
+- Percentage of household members actively using the dashboard weekly  
+- Frequency of task updates, grocery list edits, and shared interactions  
+- Retention over time, measured by continued usage after initial setup  
+
+**Efficiency & Behavior Change**
+- Reduction in missed or duplicated household tasks  
+- Time saved coordinating chores and grocery planning compared to baseline methods  
+- Decrease in reliance on fragmented tools such as group chats or notes apps  
+
+**User Experience Quality**
+- Qualitative feedback on clarity, ease of navigation, and perceived usefulness  
+- Task completion rates without external reminders or clarification  
+- Net Promoter Score–style sentiment from household users  
+
+**Future AI Impact (Planned)**
+- Accuracy of AI-assisted task prioritization suggestions  
+- Relevance of predictive reminders based on usage patterns  
+- Reduction in manual inputs as intelligent defaults improve over time  
